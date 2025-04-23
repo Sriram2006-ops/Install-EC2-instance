@@ -18,6 +18,7 @@ Use AWS CLI
 Install AWS CLI using pip install awscli or download from AWS.
 Configure AWS CLI using aws configure.
 Practice with AWS Documentation
+![image](https://github.com/user-attachments/assets/287c6583-9671-4533-bceb-33c73b3be672)
 
 Visit the AWS Documentation for hands-on learning.
 2. Create & Manage Amazon EC2 Instances
